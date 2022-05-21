@@ -1,0 +1,11 @@
+@media(max-width:1400px){
+    .paintings .painting .information .subtitle{
+        font-weight: 300;
+    }
+
+    .paintings{
+        max-width: 900px;
+        margin: 45px ;
+        gap: 1px;
+    }
+}
